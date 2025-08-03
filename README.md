@@ -15,7 +15,7 @@ This app can be used when you want to collect and view only photos taken with a 
 
 ## Screenshot
 
-![GearView Main Screen](screenshot.png)
+![GearView Main Screen](.github/screenshot.png)
 
 ## License
 
