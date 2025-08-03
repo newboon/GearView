@@ -6,6 +6,14 @@ This app can be used when you want to collect and view only photos taken with a 
 
 **Supported File Format**: JPG/JPEG files only
 
+## Getting Started
+
+**System Requirements**: Windows only
+
+1. Download the latest `GearView.exe` from the [releases page](https://github.com/newboon/GearView/releases)
+2. Run the downloaded executable file
+3. No installation required - the app runs directly
+
 ## Usage
 
 1. **Select Source Folders**: Add folders containing images to analyze
